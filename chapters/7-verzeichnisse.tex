@@ -1,0 +1,38 @@
+%Erzeugt ein Abbildungsverzeichnis
+\listoffigures
+%Fügt die Zeile "`Abbildungsverzeichnis"' als Chapter ins Inhaltsverzeichnis ein
+\addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+\newpage
+	
+%Erzeugt ein Tabellenverzeichnis
+\listoftables
+%Fügt die Zeile "`Tabellenverzeichnis"' als Chapter ins Inhaltsverzeichnis ein
+\addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+\newpage
+
+%Erzeugt ein Pseudocode
+\lstlistoflistings
+%Fügt die Zeile "`Pseudocode"' als Chapter ins Inhaltsverzeichnis ein
+\addcontentsline{toc}{chapter}{Pseudocodeverzeichnis}
+\newpage
+\begin{lstlisting}[caption=Pseudocode - Ähnliche Rezepte,label={lst:SimilarRecipes}]
+// Mark Recipe as cooked
+if (thisRecipe.isOpen() > 300000) { // Opened for longer than 5 minutes
+    if(!MY.cookedRecipes.contains(thisRecipe)) { 
+        MY.cookedRecipes.add(thisRecipe);
+    }
+}
+\end{lstlisting}
+\newpage
+
+% To change the title from References to Bibliography:
+\renewcommand\refname{Literaturverzeichnis}
+
+%Paket für ein deutsches Literaturverzeichnis
+
+\bibliographystyle{natdin} % or try natplain or unsrtnat
+\bibliography{bibliography/biblio.bib} % refers to literatur.bib
+
+	%Fügt die Zeile "`Literaturverzeichnis"' als Chapter ins Inhaltsverzeichnis ein
+	\addcontentsline{toc}{chapter}{Literaturverzeichnis}
+\newpage

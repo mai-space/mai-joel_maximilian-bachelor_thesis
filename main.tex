@@ -1,0 +1,146 @@
+%\documentclass[12pt]{article}
+\documentclass[BCOR=12mm,DIV=11,titlepage,a4paper,oneside,hidelinks]{scrbook}
+\usepackage{scrhack}
+\usepackage[ngerman]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage{wrapfig}
+
+\usepackage[authoryear,round]{natbib}
+
+% Mittels [H] können Bilder genau an einer Stelle positioniert werden
+\usepackage{float}
+
+\usepackage[breaklinks]{hyperref}
+
+% bewirkt das HyperLinks in der PDF nicht umrandet oder farbig sind
+\hypersetup{colorlinks=false}
+
+% package for colored text
+% black,white,green,red,blue,yellow,cyan,magenta
+\usepackage{color}
+ 
+% package for colored tables
+\usepackage{colortbl}
+
+%Paket zur Erzeugung von Anführungszeichen durch \enquote{Text}
+\usepackage[ngerman]{babel}
+\usepackage[babel, german=quotes]{csquotes}
+
+%Verhindern, dass eine neue Seite für ein einzelnes Wort/Zeile verwendet wird
+\clubpenalty = 10000 % schliesst Schusterjungen aus 
+\widowpenalty = 10000 % schliesst Hurenkinder aus (keine Beleidigung, sondern wirklich ein Fachbegriff)
+
+\usepackage{lipsum}
+% Code Syntax Highlighting
+\usepackage{listings}
+\definecolor{foreground}{rgb}{.15,.16,.21} % 40 42 54
+\definecolor{background}{rgb}{1,1,1} % 248 248 242
+\definecolor{keyword}{rgb}{1,.47,.77} % 255 121 198
+\definecolor{function}{rgb}{.74,.57,.98} % 189 147 249
+\definecolor{comment}{rgb}{0.38, 0.44, 0.64} % 98 114 164
+\definecolor{string}{rgb}{1, 0.72, 0.42} % 255 184 108
+
+\lstdefinelanguage{JavaScript}{
+  keywords={break, case, catch, continue, debugger, default, delete, do, else, finally, for, foreach, function, from, if, in, instanceof, new, return, switch, this, throw, try, typeof, var, void, while, with},
+  keywordstyle=\color{keyword}\bfseries,
+  ndkeywords={class, export, boolean, throw, implements, import, this, JSON, MY, merge, remove, OurServer, add, !, ++, (), =, >},
+  ndkeywordstyle=\color{function}\bfseries,
+  identifierstyle=\color{foreground},
+  sensitive=false,
+  comment=[l]{//},
+  morecomment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  commentstyle=\color{comment}\ttfamily,
+  stringstyle=\color{string}\ttfamily,
+  morestring=[b]',
+  morestring=[b]"
+}
+
+\lstset{
+   language=JavaScript,
+   backgroundcolor=\color{background},
+   extendedchars=true,
+   basicstyle=\footnotesize\ttfamily,
+   showstringspaces=false,
+   showspaces=false,
+   numbers=left,
+   numberstyle=\footnotesize,
+   numbersep=9pt,
+   tabsize=2,
+   breaklines=true,
+   showtabs=false,
+   captionpos=b
+}
+% Set Font of code to Courier
+\usepackage{courier}
+\lstset{basicstyle=\footnotesize\ttfamily,breaklines=true}
+
+% Pseudo Code Verzeichnis
+\renewcommand{\lstlistlistingname}{Pseudocodeverzeichnis}
+\renewcommand{\lstlistingname}{Pseudocodeverzeichnis}
+
+% Get current month
+\newcommand{\Monat}{%
+\ifcase\month
+ Monat 0 \or Januar \or Februar \or März  \or April \or Mai \or Juni \or Juli%
+ \or August \or September \or Oktober \or November \or Dezember
+\fi}
+
+% make tables next to wrap figures
+\usepackage[%
+  margin=0.75in,%s
+  top=25mm,
+  headsep=24pt,% remove space between header and text body
+  headheight=25pt,% suggested by fancyhdr
+  footskip=24pt,%
+  bottom=25mm,
+  % showframe
+]{geometry}
+
+% hebt automatisches einrücken am Anfang der Zeile auf.
+\usepackage{lipsum}
+\setlength{\parindent}{0pt} 
+
+% Chapter Title if no chapter is on page
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\headrulewidth}{0pt}
+
+\fancyhead[C]{\textsc{\leftmark}}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+
+\input{./chapters/1-titelseite}
+\pagenumbering{Roman}
+\tableofcontents
+\addcontentsline{toc}{chapter}{Inhaltsverzeichnis}
+\setcounter{page}{1}
+\newpage
+
+\input{./chapters/2-abstract}
+\newpage
+\pagenumbering{arabic}
+\input{./chapters/3-einleitung}
+\newpage
+\input{./chapters/4-hauptteil}
+\newpage
+\input{./chapters/5-abschluss}
+\newpage
+\input{./chapters/6-ausblick}
+
+\newpage
+\pagenumbering{Roman}
+\setcounter{page}{4}
+\include{./chapters/7-verzeichnisse}
+\include{./chapters/8-eid}
+
+\end{document}
