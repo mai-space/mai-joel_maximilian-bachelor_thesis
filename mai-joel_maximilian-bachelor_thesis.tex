@@ -1,0 +1,440 @@
+%----------------------------------------------------------------------------------------
+%	Debug options
+%----------------------------------------------------------------------------------------
+% chktex-file 18
+% chktex-file 1
+%============================================================================%
+%
+%	DOCUMENT DEFINITION
+%
+%============================================================================%
+\documentclass[BCOR=12mm,DIV=11,parskip=half-,titlepage,a4paper,oneside,hidelinks,headings=optiontohead,listof=leveldown,listof=totocnumbered]{scrbook}
+\usepackage[scaled=0.92]{helvet}
+\usepackage[T1]{fontenc}
+% This allows to type UTF-8 characters like Ã¤,Ã¶,Ã¼,ÃŸ
+\usepackage[utf8]{inputenc}
+% Change font of headers and footers (komascript)
+\setkomafont{pagehead}{\sffamily}
+\setkomafont{pagenumber}{\sffamily}
+
+%----------------------------------------------------------------------------------------
+%	Text options
+%----------------------------------------------------------------------------------------
+% Package for captions
+\usepackage{caption}
+% Package for sub captions
+\usepackage{subcaption}
+% Language of the document
+\usepackage[english]{babel}
+\usepackage[babel=true]{csquotes}
+\MakeOuterQuote{"}
+% package for colored text
+\usepackage[dvipsnames]{xcolor}
+% Sans-Serif font as a default
+\renewcommand{\familydefault}{\sfdefault}
+% Add more line-height
+\renewcommand*\baselinestretch{1.3}\selectfont
+% Customize Chapter padding
+\RedeclareSectionCommand[beforeskip=21pt]{chapter}
+\RedeclareSectionCommand[afterskip=8pt]{chapter}
+% Customize Section padding 
+\RedeclareSectionCommand[beforeskip=8pt]{section}
+\RedeclareSectionCommand[afterskip=2pt]{section}
+% Customize Sub-Section padding 
+\RedeclareSectionCommand[beforeskip=8pt]{subsection}
+\RedeclareSectionCommand[afterskip=2pt]{subsection}
+% Customize Sub-Sub-Section padding 
+\RedeclareSectionCommand[beforeskip=8pt]{subsubsection}
+\RedeclareSectionCommand[afterskip=1pt]{subsubsection}
+% Remove NewPage command from chapter
+\usepackage{etoolbox}
+%\makeatletter
+%\patchcmd{\scr@startchapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+%\makeatother
+% Fancier enumerations
+\usepackage{enumitem}
+
+%----------------------------------------------------------------------------------------
+%	Fancy headers
+%----------------------------------------------------------------------------------------
+\usepackage[autooneside=false,automark]{scrlayer-scrpage}
+\usepackage[outermarks]{titleps} % 'outermarks' assures titles for continuing section 
+\def\header{}
+\newpagestyle{main}{
+  %\setheadrule{.3pt}
+  \sethead{\chaptertitle \Ifstr{\sectiontitle}{}{}{\hspace{2pt} \makebox(6, 6){\textcolor{lightgrey}{\csname faAngleDoubleRight\endcsname}} \hspace{2pt}\sectiontitle}}
+  {\global\let\header\sectiontitle}
+  {}
+  %\setfootrule{.8pt}
+  \setfoot[][\thepage][]
+    {}{\thepage}{}
+}
+\pagestyle{main}
+
+
+%----------------------------------------------------------------------------------------
+%	Format options
+%----------------------------------------------------------------------------------------
+% Remove the indentation at the beginning of the line
+\usepackage{lipsum}
+\setlength{\parindent}{0pt} 
+% Exclude only one word on one page
+\clubpenalty=10000 % Exclude cobblers
+\widowpenalty=10000 % Exclude whore children
+
+%----------------------------------------------------------------------------------------
+%	Image options
+%----------------------------------------------------------------------------------------
+% Package for more image options
+\usepackage{graphicx}
+% Package for figures that wrap around text
+\usepackage{wrapfig}
+% Using [H] images can be positioned exactly at one point
+\usepackage{float}
+% you need SVG to use SVG images
+%\usepackage{svg}
+
+%----------------------------------------------------------------------------------------
+%	Table options
+%----------------------------------------------------------------------------------------
+% TOC Chapter name
+\renewcaptionname{english}{\contentsname}{Table of contents}
+% package for colored tables
+\usepackage{colortbl}
+% make tables next to wrap figures
+\usepackage[%
+  margin=0.75in,%s
+  top=25mm,
+  headsep=24pt,% remove space between header and text body
+  headheight=25pt,% suggested by fancyhdr
+  footskip=24pt,%
+  bottom=25mm,
+  % show frame
+]{geometry}
+% Padding for tables
+\usepackage{booktabs}
+
+%----------------------------------------------------------------------------------------
+%	Link options
+%----------------------------------------------------------------------------------------
+% Package redefines some macros of some hyperref driver files
+\usepackage{scrhack}
+% Do not highlight the links
+\usepackage[breaklinks]{hyperref}
+\hypersetup{colorlinks=false}
+
+%rgb(49, 51, 62)
+%rgb(46, 204, 255)
+%,filecolor=[rgb]{0,0,1}
+%,linkcolor=[rgb]{0,0,1}
+%,citecolor=[rgb]{0,0,1}
+%,urlcolor=[rgb]{0,1,0}
+%,menucolor=[rgb]{1,0,0}
+%,runcolor=[rgb]{0,1,1}
+%,allcolors=[rgb]{0,0,0}
+%----------------------------------------------------------------------------------------
+%	Bibliography options
+%----------------------------------------------------------------------------------------
+% Package to define citations
+\usepackage[numberedbib,sectionbib,tocbib,bibnewpage]{apacite}
+%\newcommand{\cp}[1] {\textcolor{Violet}{#1}}
+\usepackage[printonlyused]{acronym}
+\renewcommand{\acsfont}[1]{{\color{Violet}\textnormal{#1}}}
+\renewcommand{\acffont}[1]{{\color{Violet}\textnormal{#1}}}
+\usepackage[xindy,toc,numberedsection,section=section]{glossaries}
+\renewcommand*{\glstextformat}[1]{\textcolor{Violet}{#1}}
+\makenoidxglossaries 
+
+\input{./chapters/8-glossaries}
+
+%----------------------------------------------------------------------------------------
+%	Fancy Boxes
+%----------------------------------------------------------------------------------------
+% Fancy Quotation
+% for adjust width environment
+\usepackage[strict]{changepage}
+% for formal definitions
+\usepackage{framed}
+% environment derived from framed.sty: see left bar environment definition
+\definecolor{lightgrey}{rgb}{0.6,0.6,0.6} % rgb(153, 154, 154)
+\definecolor{darkblue}{rgb}{0.10,0.14,0.55} % rgb(26, 36, 140)
+\definecolor{quoteshade}{rgb}{0.95,0.95,1} % rgb(242,242,255)
+\definecolor{yellow}{rgb}{0.95,0.82,0.43} % rgb(244,209,111)
+\definecolor{takeawayshade}{rgb}{0.95,0.95,0.77} % rgb(243,243,196)
+
+\newenvironment{fancyquote}{%
+  \def\FrameCommand{%
+    \hspace{1pt}%
+    {\color{darkblue}\vrule width 2pt}%
+    {\color{quoteshade}\vrule width 4pt}%
+    \colorbox{quoteshade}%
+  }%
+  \MakeFramed{\advance\hsize-\width\FrameRestore}%
+  \noindent\hspace{-4.55pt}% disable indenting first paragraph
+  \begin{adjustwidth}{}{7pt}%
+  \vspace{2pt}\vspace{2pt}%
+}
+{%
+  \vspace{2pt}\end{adjustwidth}\endMakeFramed%
+}
+
+\newenvironment{fancytakeaway}{%
+  \def\FrameCommand{%
+    \hspace{1pt}% Indentation
+    {\color{yellow}\vrule width 2pt}%
+    {\color{takeawayshade}\vrule width 4pt}%
+    \colorbox{takeawayshade}%
+  }%
+  \MakeFramed{\advance\hsize-\width\FrameRestore}%
+  \noindent\hspace{-4.55pt}% disable indenting first paragraph
+  \begin{adjustwidth}{}{7pt}%
+  \vspace{1pt}% Padding top
+}
+{%
+  \vspace{4pt}\end{adjustwidth}\endMakeFramed% Padding bottom
+}
+
+%----------------------------------------------------------------------------------------
+%	MISC PACKAGES
+%----------------------------------------------------------------------------------------
+% Package includes a variety of new environments and commands for the mathematical domain
+\usepackage{amsmath}
+% Get date
+\usepackage{datetime}
+% Calc project plan dynamically
+\usepackage{advdate}
+% Package to import custom packages
+\usepackage{import}
+% Include the fontawesome icon set
+\usepackage{fontawesome}
+% Package for including the Interview pdf
+\usepackage{pdfpages}
+% English dates
+\usepackage[super]{nth}
+% Add code as listings
+\usepackage{listings}
+\definecolor{foreground}{rgb}{.15,.16,.21} % 40 42 54
+\definecolor{background}{rgb}{1,1,1} % 248 248 242
+\definecolor{keyword}{rgb}{1,.47,.77} % 255 121 198
+\definecolor{function}{rgb}{.74,.57,.98} % 189 147 249
+\definecolor{comment}{rgb}{0.38, 0.44, 0.64} % 98 114 164
+\definecolor{string}{rgb}{1, 0.72, 0.42} % 255 184 108
+
+\lstdefinelanguage{bibtex}{
+  keywords={@mastersthesis},
+  keywordstyle=\color{keyword}\bfseries,
+  ndkeywords={type, author, title, year, month, journal, keywords},
+  ndkeywordstyle=\color{function}\bfseries,
+  identifierstyle=\color{foreground},
+  sensitive=false,
+  comment=[l]{//},
+  morecomment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  commentstyle=\color{comment}\ttfamily,
+  stringstyle=\color{string}\ttfamily,
+}
+
+\lstset{
+   language=bibtex,
+   backgroundcolor=\color{background},
+   extendedchars=true,
+   basicstyle=\footnotesize\ttfamily,
+   showstringspaces=false,
+   showspaces=false,
+   tabsize=2,
+   breaklines=true,
+   showtabs=false,
+   captionpos=b
+}
+
+% Set Font of code to Courier
+\usepackage{courier}
+\lstset{basicstyle=\footnotesize\ttfamily,breaklines=true}
+
+% Pseudo Code Verzeichnis
+\renewcommand{\lstlistlistingname}{How to cite this thesis}
+\renewcommand{\lstlistingname}{How to cite this thesis}
+
+%----------------------------------------------------------------------------------------
+%	CUSTOM PACKAGES
+%----------------------------------------------------------------------------------------
+
+% Import Glossary Package
+%\usepackage{packages/glossary}
+
+%----------------------------------------------------------------------------------------
+%	CUSTOM COMMANDS
+%----------------------------------------------------------------------------------------
+% Chapter Title if no chapter is on page
+\renewcommand*{\chaptermarkformat}{}
+% Does not display content and acts as a comment block
+\newcommand{\newcommentblock}[1]{}
+% Get-Date in Format Month Year 
+\newdateformat{monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+% Quote Block
+\newcommand{\lastline}[1]{%
+  \begingroup\setlength{\parskip}{0pt}\par\nopagebreak
+  \raggedleft#1\par\endgroup
+}
+\newcommand{\quotethis}[2] {
+  \begin{fancyquote}
+    \begin{adjustwidth}{.5cm}{}
+      \makebox(12, 12){\textcolor{darkblue}{\csname faQuoteLeft\endcsname}}
+      \textit{#1}
+      \makebox(12, 12){\textcolor{darkblue}{\csname faQuoteRight\endcsname}}
+      \lastline{---~#2}
+    \end{adjustwidth}
+  \end{fancyquote}
+}
+% Key Takeaways 
+\newcommand{\takeaways}[1] {
+  \begin{fancytakeaway}
+    \makebox(10, 10){\textcolor{black}{\csname faLightbulbO\endcsname}}
+    \textbf{Key Takeaways}\newline
+    #1
+  \end{fancytakeaway}
+}
+
+% Fancy reference for sections without number
+\newcommand{\fancyref}[1] {\textit{"\nameref{#1}"}}
+
+% icon shortcut
+\newcommand{\icon}[3] { 							
+	\makebox(#2, #2){\textcolor{darkblue}{\csname fa#1\endcsname}}
+}	
+
+% use to vertically center content
+% credits to: http://tex.stackexchange.com/questions/7219/how-to-vertically-center-two-images-next-to-each-other
+\newcommand*{\vcenteredhbox}[1]{\begingroup
+\setbox0=\hbox{#1}\parbox{\wd0}{\box0}\endgroup}
+
+% icon with text shortcut
+\newcommand{\icontext}[4]{ 						
+	\vcenteredhbox{\icon{#1}{#2}{#3}} \hspace{1pt}{\textcolor{#4}{#3}}
+}
+
+% Questionnaire - kurzantwort
+\newcommand{\kurzantwort}{
+  \begin{minipage}{10cm}
+    \vspace{0.8cm}
+    \dotfill
+  \end{minipage}
+}
+% Questionnaire - langantwort
+\newcommand{\langantwort}{
+  \begin{minipage}{\textwidth}
+    \vspace{0.8cm}
+    \dotfill
+  \end{minipage}
+  \begin{minipage}{\textwidth}
+    \vspace{0.8cm}
+    \dotfill
+  \end{minipage}
+  \begin{minipage}{12cm}
+    \vspace{0.8cm}
+    \dotfill
+  \end{minipage}
+}
+% Questionnaire - Radiobutton
+\newcommand{\einzelantwort}[1]{
+  \makebox(6, 6){\textcolor{lightgrey}{\csname faCircleO\endcsname}}\hspace{2pt} #1\newline
+}
+\newcommand{\einzelantworticon}{
+  \makebox(6, 6){\textcolor{lightgrey}{\csname faCircleO\endcsname}}\hspace{2pt}
+}
+% Questionnaire - scale
+\newcommand{\skalarvonbis}[4]{
+  Auf einer Skalar von #1 bis #2, wobei #1 "#3" bedeutet und #2 "#4".
+}
+% Questionnaire - checkbox
+\newcommand{\checkboxantwort}[1]{
+  \makebox(6, 6){\textcolor{lightgrey}{\csname faSquareO\endcsname}}\hspace{2pt} #1\newline
+}
+\newcommand{\checkboxantworticon}{
+  \makebox(6, 6){\textcolor{lightgrey}{\csname faSquareO\endcsname}}\hspace{2pt}
+}
+% Questionnaire - response faMale faUser faUsers faGroup
+\newcommand{\responsecount}{
+  \makebox(6, 6){\textcolor{lightgrey}{\csname faGroup\endcsname}}
+}
+% Questionnaire - open response
+\newcommand{\openresponse}{
+  \makebox(6, 6){\textcolor{lightgrey}{\csname faComment\endcsname}}
+}
+%----------------------------------------------------------------------------------------
+%	CUSTOM VARIABLES
+%----------------------------------------------------------------------------------------
+% Inserts thesis into text
+\newcommand{\thesis}{Investigating the theory-practice gap of Scrum}
+\newcommand{\thisauthor}{Joël Maximilian Mai}
+\newcommand{\thiskeywords}{scrum, agile software development, framework, methodology, theory-practice gap}
+
+%----------------------------------------------------------------------------------------
+%	Meta Data
+%----------------------------------------------------------------------------------------
+
+\hypersetup{
+  pdftitle={\thesis},
+  pdfsubject={\thesis},
+  pdfauthor={\thisauthor},
+  pdfkeywords={\thiskeywords}
+}
+
+%----------------------------------------------------------------------------------------
+%	HOW TO CITE
+%----------------------------------------------------------------------------------------
+\newcommentblock{
+e.g. = Example for the stated thesis
+i.e. = In other words, indirect citations
+
+In Klammern\cite<e.g.,>[p.~11]{Theocharis2015IWS,Zikopi2019Acs} 
+
+Im Fließtext Jahr in Klammern\citeA<e.g.,>[p.~11]{Theocharis2015IWS,Zikopi2019Acs}
+
+Nur Autoren\citeauthor<e.g.,>[p.~11]{Theocharis2015IWS,Zikopi2019Acs}
+
+Nur Jahr\citeyear<e.g.,>[p.~11]{Theocharis2015IWS,Zikopi2019Acs} 
+
+Jahr im Fließtext\citeyearNP<e.g.,>[p.~11]{Theocharis2015IWS,Zikopi2019Acs}
+
+Im Fließtext\citeNP<e.g.,>[p.~11]{Theocharis2015IWS,Zikopi2019Acs} 
+}
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT STRUCTURE
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+\pagenumbering{Roman}
+\setcounter{page}{1}
+% Titlepage and addresses
+\input{./chapters/0a-titlepage}\newpage
+\input{./chapters/0b-addresses}\newpage
+
+% Acknowledgements, keywords and abstract
+\input{./chapters/0c-keywords-and-acknowledgements}\newpage
+\input{./chapters/0d-abstract}\newpage
+
+% Table of contents
+\phantomsection%
+\addcontentsline{toc}{chapter}{Table of contents}
+\tableofcontents
+\newpage
+\setcounter{page}{1}
+
+%	Main
+\pagenumbering{arabic}
+\input{./chapters/1-introduction}
+\input{./chapters/2-literature-review}
+\input{./chapters/3-method}
+\input{./chapters/4-discussion}
+\input{./chapters/5-conclusion}
+\newpage
+
+%	Appendix
+\pagenumbering{Roman}
+\setcounter{page}{6}
+\input{./chapters/9-listings}
+\newpage
+
+\end{document}

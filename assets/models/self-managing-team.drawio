@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="XCEV0O69jqTR0ELvsX16" name="Seite-1">
+        <mxGraphModel dx="1717" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="SELF-MANAGEMENT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="440" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="ALIGNMENT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="440" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="COLLABORATION" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#AE4132;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="440" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="ADAPTATION" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#23445D;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="440" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="RESTRUCTURATION" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#12AAB5;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="440" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;span&gt;- Receive limited input from&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; outside&lt;br&gt;&lt;/span&gt;- Decide Who works on What&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; When" style="shape=rect;fillColor=#10739E;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="- Share a common vision for the&amp;nbsp; &amp;nbsp; &amp;nbsp; product&lt;br&gt;- Attend alignment meetings" style="shape=rect;fillColor=#F2931E;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="- Develop together and learn&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; from each other&lt;br&gt;- Decisions are made in&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; collaboration" style="shape=rect;fillColor=#AE4132;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="- Regular inspections of efficiency&lt;br&gt;- Define actions to take&lt;br&gt;- Adapt to changes in&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; requirements or real market" style="shape=rect;fillColor=#23445D;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="- Add or remove People form the&amp;nbsp; &amp;nbsp; Team as needed" style="shape=rect;fillColor=#12AAB5;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="480" width="190" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="g-B6R4z7g1c9R3mFVaZc" name="Seite-1">
+        <mxGraphModel dx="1110" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;strokeWidth=3;strokeColor=#000000;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;endArrow=block;endFill=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;Theory&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;startArrow=block;startFill=0;endArrow=none;endFill=0;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="3" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="3" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="3" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;The Gap&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="353" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;Practice&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;&lt;b&gt;Language&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;Jargon of the theory&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;Misunderstood by practicioners&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="174" width="240" height="226" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;Methodology&lt;br&gt;&lt;/b&gt;&lt;ul style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;&lt;li&gt;Theory not stemming from practice&lt;/li&gt;&lt;li&gt;Theory unsuited for practice&lt;/li&gt;&lt;li&gt;Theory does not measure success in the same way as practice does&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="289" y="174" width="248.5" height="226" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;&lt;b&gt;Evolution&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 16px&quot;&gt;New insights and improvements but theory laggs behind&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;align=left;verticalAlign=top;spacing=8;strokeWidth=3;fontFamily=Helvetica;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="174" width="250" height="226" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=1;shape=mxgraph.networks.users;fontSize=16;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="493" y="180" width="24" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=5;shape=mxgraph.lean_mapping.physical_pull;pointerEvents=1;strokeColor=#000000;fillColor=#000000;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="757" y="181" width="24" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;strokeWidth=1;size=9;position=0.44;base=10;fillColor=#000000;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="234" y="183" width="24" height="24" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,33 @@
+// Editors
+.vscode/
+.idea/
+
+// LaTex
+*.acn
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.glo
+*.glg
+*.gls
+*.glsdefs
+*.ist
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.run.xml
+*.xdy
+*.lol
+
+// Chapters
+
+chapters/*.aux
+
+// WSL
+*:Zone.Identifier

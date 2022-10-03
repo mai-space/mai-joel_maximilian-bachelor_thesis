@@ -1438,11 +1438,11 @@
 }
 
 @Article{Maximini2018TSC,
-  author           = {Maximini, Dominik},
+  author           = {Maximini, Dominik and Maximini, Dominik},
   journal          = {The Scrum Culture: Introducing Agile Methods in Organizations},
   title            = {The Scrum Culture},
   year             = {2018},
-  modificationdate = {2023-02-16T19:11:07},
+  modificationdate = {2023-01-22T13:51:34},
   publisher        = {Springer},
 }
 

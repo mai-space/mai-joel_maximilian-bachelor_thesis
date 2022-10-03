@@ -1,0 +1,16 @@
+\ProvidesPackage{packages/glossary}
+
+% Accronyms
+% param 1: Shorthand code
+% param 2: Description
+\newcommand{\newacronym}[2] {
+    \textbf{#1} \newline
+    #2
+}
+% Glossaries
+% param 1: Title
+% param 2: Description
+\newcommand{\newglossaryentry}[2] {
+    \textbf{#1} \newline
+    #2
+}

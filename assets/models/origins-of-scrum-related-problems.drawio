@@ -1,0 +1,368 @@
+<mxfile host="65bd71144e">
+    <diagram id="EOmqfxp-pXkhOIfzS5TI" name="Seite-1">
+        <mxGraphModel dx="1603" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#006EAF;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="590" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#001DBC;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="500" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#3700CC;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="410" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;strokeColor=#7512CC;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="320" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Individuals&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="40" y="615" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Teams&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="40" y="525" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Leadership&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="40" y="435" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;span style=&quot;font-size: 10px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Client Communication&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="338" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#A50040;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="230" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0935;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="140" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;span style=&quot;&quot;&gt;Organization&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="40" y="165" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="30" y="50" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;&quot;&gt;Framework&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="40" y="75" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Management&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="40" y="255" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Roles in a Scrum Team&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Common additional Roles&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Characteristics of agile Software Developer&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="580" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Characteristics of a Scrum Team&lt;br&gt;&lt;/li&gt;&lt;li&gt;Characteristics of an effective Team&lt;/li&gt;&lt;li&gt;Hierchy and Silos, Conweys Law&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="490" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;ul&gt;&lt;li&gt;Leadership vs Management in Scrum&lt;/li&gt;&lt;li&gt;Leadership Styles&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="400" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;ul&gt;&lt;li&gt;Sales&lt;/li&gt;&lt;li&gt;Client Involvement&lt;/li&gt;&lt;li&gt;Testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="310" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;ul&gt;&lt;li&gt;Interference&lt;/li&gt;&lt;li&gt;Command and Control&lt;/li&gt;&lt;li&gt;Riskmanagement&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="220" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;ul&gt;&lt;li&gt;Maturity Measurements&lt;/li&gt;&lt;li&gt;Organization Types&lt;/li&gt;&lt;li&gt;Adopting a Framework&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="130" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;ul&gt;&lt;li&gt;Choosing the right Framework&lt;/li&gt;&lt;li&gt;Limitations of Frameworks&lt;/li&gt;&lt;li&gt;Understanding Agile and Scrum&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="40" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#006EAF;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#001DBC;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#3700CC;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;strokeColor=#7512CC;fontColor=#000000;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Individuals&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="80" y="1035" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Teams&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="165" y="1035" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Leadership&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1035" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;span style=&quot;font-size: 10px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Client Communication&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="1030" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#A50040;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0935;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;span style=&quot;&quot;&gt;Organization&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="530" y="1035" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0000;fontStyle=1;direction=south;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="1000" width="80" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;span style=&quot;&quot;&gt;Framework&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1036" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Management&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="440" y="1036" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#006EAF;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="50" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#001DBC;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="140" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#3700CC;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="230" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;strokeColor=#7512CC;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="320" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Individuals&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="75" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Teams&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="165" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Leadership&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="255" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;span style=&quot;font-size: 10px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Client Communication&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;fontSize=10;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="338" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#A50040;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="410" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0935;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="500" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="&lt;span style=&quot;&quot;&gt;Organization&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="525" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1190" y="590" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="&lt;span style=&quot;&quot;&gt;Framework&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="615" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Management&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="435" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Roles in a Scrum Team&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Common additional Roles&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Characteristics of agile Software Developer&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="40" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Characteristics of a Scrum Team&lt;br&gt;&lt;/li&gt;&lt;li&gt;Characteristics of an effective Team&lt;/li&gt;&lt;li&gt;Hierchy and Silos, Conweys Law&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="130" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="&lt;ul&gt;&lt;li&gt;Leadership vs Management in Scrum&lt;/li&gt;&lt;li&gt;Leadership Styles&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="220" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="&lt;ul&gt;&lt;li&gt;Sales&lt;/li&gt;&lt;li&gt;Client Involvement&lt;/li&gt;&lt;li&gt;Testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="310" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="&lt;ul&gt;&lt;li&gt;Interference&lt;/li&gt;&lt;li&gt;Command and Control&lt;/li&gt;&lt;li&gt;Riskmanagement&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="400" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;ul&gt;&lt;li&gt;Maturity Measurements&lt;/li&gt;&lt;li&gt;Organization Types&lt;/li&gt;&lt;li&gt;Adopting a Framework&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="490" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="&lt;ul&gt;&lt;li&gt;Choosing the right Framework&lt;/li&gt;&lt;li&gt;Limitations of Frameworks&lt;/li&gt;&lt;li&gt;Understanding Agile and Scrum&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="580" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#006EAF;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="590" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#001DBC;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="500" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#3700CC;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="410" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;strokeColor=#7512CC;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="320" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Individuals&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="615" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Teams&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="525" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Leadership&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="435" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;span style=&quot;font-size: 10px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Client Communication&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;fontSize=10;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="338" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#A50040;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="230" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0935;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="140" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;span style=&quot;&quot;&gt;Organization&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="165" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;sketch=1;rounded=0;fontFamily=Garamond;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#6F0000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="50" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;span style=&quot;&quot;&gt;Framework&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="75" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;span style=&quot;font-size: 12px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Management&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Garamond;align=center;labelBackgroundColor=none;sketch=1;glass=1;labelBorderColor=none;fontColor=#000000;fontStyle=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="255" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Roles in a Scrum Team&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Common additional Roles&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Characteristics of agile Software Developer&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="580" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Characteristics of a Scrum Team&lt;br&gt;&lt;/li&gt;&lt;li&gt;Characteristics of an effective Team&lt;/li&gt;&lt;li&gt;Hierchy and Silos, Conweys Law&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="490" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;ul&gt;&lt;li&gt;Leadership vs Management in Scrum&lt;/li&gt;&lt;li&gt;Leadership Styles&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="400" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="&lt;ul&gt;&lt;li&gt;Sales&lt;/li&gt;&lt;li&gt;Client Involvement&lt;/li&gt;&lt;li&gt;Testing&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="310" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;ul&gt;&lt;li&gt;Interference&lt;/li&gt;&lt;li&gt;Command and Control&lt;/li&gt;&lt;li&gt;Riskmanagement&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="220" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="&lt;ul&gt;&lt;li&gt;Maturity Measurements&lt;/li&gt;&lt;li&gt;Organization Types&lt;/li&gt;&lt;li&gt;Adopting a Framework&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="130" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;ul&gt;&lt;li&gt;Choosing the right Framework&lt;/li&gt;&lt;li&gt;Limitations of Frameworks&lt;/li&gt;&lt;li&gt;Understanding Agile and Scrum&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;fontColor=#000000;fontStyle=1;fontFamily=Garamond;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="40" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0E6EB;gradientColor=#083C64;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="1680" y="-75" width="750" height="630" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMjAiIGhlaWdodD0iNDA5IiB2aWV3Qm94PSIwIDAgMjIwIDQwOSIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0xNzQuNSAzNzFMMTE5IDQwN0wyNy41IDM1NkwxLjUgMjgxLjVMMTkgMjIwVjIwMEwxIDEzMy41TDIxIDEzMC41TDI3LjUgMTA4TDQ3LjY0ODEgOTJIMTg4TDIwNC41IDEwNC41VjEzNy41TDIxNC41IDE0MC41TDIwMC41IDE4MUwyMTguNSAyMjJMMTc0LjUgMzcxWiIgZmlsbD0iIzAwMzU1RSIvPgo8cGF0aCBkPSJNMTE5IDQwN0wxNzQuNSAzNzFMMjE4LjUgMjIyTDIwMC41IDE4MUwyMTQuNSAxNDAuNUwyMDQuNSAxMzcuNU0xMTkgNDA3TDI3LjUgMzU2TDEuNSAyODEuNU0xMTkgNDA3TDk2IDMzOUwxLjUgMjgxLjVNMjA0LjUgMTM3LjVWMTA0LjVNMjA0LjUgMTM3LjVMMTgzLjUgMTM1LjVMMjA0LjUgMTA0LjVNMjA0LjUgMTA0LjVMMTg4IDkySDQ3LjY0ODFMMjcuNSAxMDhMMjEgMTMwLjVMMSAxMzMuNU0xIDEzMy41TDE5IDIwMFYyMjBMMS41IDI4MS41TTEgMTMzLjVMNTUgMTU3TDQ2LjUgMjAwTDEuNSAyODEuNSIgc3Ryb2tlPSJibGFjayIvPgo8cGF0aCBkPSJNMjA0LjUgMTA0LjVWMTM3LjVMMTgzLjUgMTM1LjVMMjA0LjUgMTA0LjVaIiBmaWxsPSIjMDAyNTQxIi8+CjxwYXRoIGQ9Ik0xOSAyMDBMMSAxMzMuNUw1NSAxNTdMNDYuNSAyMDBMMS41IDI4MS41TDk2IDMzOUwxMTkgNDA3TDI3LjUgMzU2TDEuNSAyODEuNUwxOSAyMjBWMjAwWiIgZmlsbD0iIzAwMjU0MSIvPgo8cGF0aCBkPSJNMS41IDI4MS41TDE5IDIyMFYyMDBMMSAxMzMuNUw1NSAxNTdMNDYuNSAyMDBMMS41IDI4MS41Wk0xLjUgMjgxLjVMMjcuNSAzNTZMMTE5IDQwN0w5NiAzMzlMMS41IDI4MS41Wk0yMDQuNSAxMzcuNVYxMDQuNUwxODMuNSAxMzUuNUwyMDQuNSAxMzcuNVoiIHN0cm9rZT0iYmxhY2siLz4KPHBhdGggZD0iTTEyOC41IDEwLjVMMTU1IDI0TDE3NC4xNjkgNjMuNUwxODggOTJINDcuNjQ4MUw2MS41IDgxVjc1LjVMNzEgNjMuNUw3NC41IDUxLjVMODUgNDUuNUw5MiAzMC41TDEwMCAyMi41TDExMS41IDFMMTI0IDUuNUwxMjguNSAxMC41WiIgZmlsbD0iI0Q5RDlEOSIgc3Ryb2tlPSJibGFjayIvPgo8cGF0aCBkPSJNMTI4LjUgMTAuNUwxNTUgMjRMMTc0LjE2OSA2My41TDE1My41IDM5LjVMMTM2LjUgMjZMMTI4LjUgMTAuNVoiIGZpbGw9IiM3RTdGODMiLz4KPHBhdGggZD0iTTc0LjUgNTEuNUw4NSA0NS41TDkxIDUwLjVMODMuNSA1My41TDcxIDYzLjVMNzQuNSA1MS41WiIgZmlsbD0iIzdFN0Y4MyIvPgo8cGF0aCBkPSJNMTI4LjUgMTAuNUwxNTUgMjRMMTc0LjE2OSA2My41TDE1My41IDM5LjVMMTM2LjUgMjZMMTI4LjUgMTAuNVoiIHN0cm9rZT0iYmxhY2siLz4KPHBhdGggZD0iTTc0LjUgNTEuNUw4NSA0NS41TDkxIDUwLjVMODMuNSA1My41TDcxIDYzLjVMNzQuNSA1MS41WiIgc3Ryb2tlPSJibGFjayIvPgo8L3N2Zz4=;fillColor=#CCF8FF;gradientColor=#070542;sketch=0;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="1950" y="95" width="220" height="409" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MTciIGhlaWdodD0iMjkiIHZpZXdCb3g9IjAgMCA4MTcgMjkiIGZpbGw9Im5vbmUiPgo8cGF0aCBkPSJNMTAuMDM2MyAxMS4xMjFDMTAuMDM2MyAxMS4xMjEgMTcuNTk3NSAxNy42MTg0IDIzLjQ1OTcgMTcuODcxQzI5Ljg3NzQgMTguMTQ3NiAzMi4wMzYgMTEuMTIxIDM4LjQ1OTcgMTEuMTIxQzQ0Ljg4MzMgMTEuMTIxIDQ3LjA0MiAxOC4xNDc2IDUzLjQ1OTcgMTcuODcxQzU5LjMyMTggMTcuNjE4NCA2MS4wMTU1IDExLjE0NzcgNjYuODgzMSAxMS4xMjFDNzIuODA0MSAxMS4wOTQxIDc0LjU5NzUgMTcuNjE4NCA4MC40NTk3IDE3Ljg3MUM4Ni44Nzc0IDE4LjE0NzYgODkuMDM2IDExLjEyMSA5NS40NTk3IDExLjEyMUMxMDEuODgzIDExLjEyMSAxMDQuMDQyIDE4LjE0NzYgMTEwLjQ2IDE3Ljg3MUMxMTYuMzIyIDE3LjYxODQgMTIzLjg4MyAxMS4xMjEgMTIzLjg4MyAxMS4xMjEiIHN0cm9rZT0iI0I1QjZCQyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTEyMy44ODMgMTEuMTIxQzEyMy44ODMgMTEuMTIxIDEzMS40NDQgMTcuNjE4NCAxMzcuMzA2IDE3Ljg3MUMxNDMuNzI0IDE4LjE0NzYgMTQ1Ljg4MyAxMS4xMjEgMTUyLjMwNiAxMS4xMjFDMTU4LjczIDExLjEyMSAxNjAuODg5IDE4LjE0NzYgMTY3LjMwNiAxNy44NzFDMTczLjE2OSAxNy42MTg0IDE3NC44NjIgMTEuMTQ3NyAxODAuNzMgMTEuMTIxQzE4Ni42NTEgMTEuMDk0MSAxODguNDQ0IDE3LjYxODQgMTk0LjMwNiAxNy44NzFDMjAwLjcyNCAxOC4xNDc2IDIwMi44ODMgMTEuMTIxIDIwOS4zMDYgMTEuMTIxQzIxNS43MyAxMS4xMjEgMjE3Ljg4OSAxOC4xNDc2IDIyNC4zMDYgMTcuODcxQzIzMC4xNjkgMTcuNjE4NCAyMzcuNzMgMTEuMTIxIDIzNy43MyAxMS4xMjEiIHN0cm9rZT0iI0I1QjZCQyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTIzNy43MyAxMS4xMjFDMjM3LjczIDExLjEyMSAyNDUuMjkxIDE3LjYxODQgMjUxLjE1MyAxNy44NzFDMjU3LjU3MSAxOC4xNDc2IDI1OS43MyAxMS4xMjEgMjY2LjE1MyAxMS4xMjFDMjcyLjU3NyAxMS4xMjEgMjc0LjczNiAxOC4xNDc2IDI4MS4xNTMgMTcuODcxQzI4Ny4wMTUgMTcuNjE4NCAyODguNzA5IDExLjE0NzcgMjk0LjU3NyAxMS4xMjFDMzAwLjQ5OCAxMS4wOTQxIDMwMi4yOTEgMTcuNjE4NCAzMDguMTUzIDE3Ljg3MUMzMTQuNTcxIDE4LjE0NzYgMzE2LjczIDExLjEyMSAzMjMuMTUzIDExLjEyMUMzMjkuNTc3IDExLjEyMSAzMzEuNzM2IDE4LjE0NzYgMzM4LjE1MyAxNy44NzFDMzQ0LjAxNSAxNy42MTg0IDM1MS41NzcgMTEuMTIxIDM1MS41NzcgMTEuMTIxIiBzdHJva2U9IiNCNUI2QkMiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxwYXRoIGQ9Ik0zNTEuNTc3IDExLjEyMUMzNTEuNTc3IDExLjEyMSAzNTkuMTM4IDE3LjYxODQgMzY1IDE3Ljg3MUMzNzEuNDE4IDE4LjE0NzYgMzczLjU3NiAxMS4xMjEgMzgwIDExLjEyMUMzODYuNDI0IDExLjEyMSAzODguNTgyIDE4LjE0NzYgMzk1IDE3Ljg3MUM0MDAuODYyIDE3LjYxODQgNDAyLjU1NiAxMS4xNDc3IDQwOC40MjMgMTEuMTIxQzQxNC4zNDQgMTEuMDk0MSA0MTYuMTM4IDE3LjYxODQgNDIyIDE3Ljg3MUM0MjguNDE4IDE4LjE0NzYgNDMwLjU3NiAxMS4xMjEgNDM3IDExLjEyMUM0NDMuNDI0IDExLjEyMSA0NDUuNTgyIDE4LjE0NzYgNDUyIDE3Ljg3MUM0NTcuODYyIDE3LjYxODQgNDY1LjQyMyAxMS4xMjEgNDY1LjQyMyAxMS4xMjEiIHN0cm9rZT0iI0I1QjZCQyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTQ2NS40MjMgMTEuMTIxQzQ2NS40MjMgMTEuMTIxIDQ3Mi45ODUgMTcuNjE4NCA0NzguODQ3IDE3Ljg3MUM0ODUuMjY0IDE4LjE0NzYgNDg3LjQyMyAxMS4xMjEgNDkzLjg0NyAxMS4xMjFDNTAwLjI3IDExLjEyMSA1MDIuNDI5IDE4LjE0NzYgNTA4Ljg0NyAxNy44NzFDNTE0LjcwOSAxNy42MTg0IDUxNi40MDMgMTEuMTQ3NyA1MjIuMjcgMTEuMTIxQzUyOC4xOTEgMTEuMDk0MSA1MjkuOTg1IDE3LjYxODQgNTM1Ljg0NyAxNy44NzFDNTQyLjI2NCAxOC4xNDc2IDU0NC40MjMgMTEuMTIxIDU1MC44NDcgMTEuMTIxQzU1Ny4yNyAxMS4xMjEgNTU5LjQyOSAxOC4xNDc2IDU2NS44NDcgMTcuODcxQzU3MS43MDkgMTcuNjE4NCA1NzkuMjcgMTEuMTIxIDU3OS4yNyAxMS4xMjEiIHN0cm9rZT0iI0I1QjZCQyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPHBhdGggZD0iTTU3OS4yNyAxMS4xMjFDNTc5LjI3IDExLjEyMSA1ODYuODMxIDE3LjYxODQgNTkyLjY5NCAxNy44NzFDNTk5LjExMSAxOC4xNDc2IDYwMS4yNyAxMS4xMjEgNjA3LjY5NCAxMS4xMjFDNjE0LjExNyAxMS4xMjEgNjE2LjI3NiAxOC4xNDc2IDYyMi42OTQgMTcuODcxQzYyOC41NTYgMTcuNjE4NCA2MzAuMjQ5IDExLjE0NzcgNjM2LjExNyAxMS4xMjFDNjQyLjAzOCAxMS4wOTQxIDY0My44MzEgMTcuNjE4NCA2NDkuNjk0IDE3Ljg3MUM2NTYuMTExIDE4LjE0NzYgNjU4LjI3IDExLjEyMSA2NjQuNjk0IDExLjEyMUM2NzEuMTE3IDExLjEyMSA2NzMuMjc2IDE4LjE0NzYgNjc5LjY5NCAxNy44NzFDNjg1LjU1NiAxNy42MTg0IDY5My4xMTcgMTEuMTIxIDY5My4xMTcgMTEuMTIxIiBzdHJva2U9IiNCNUI2QkMiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxwYXRoIGQ9Ik02OTMuMTE3IDExLjEyMUM2OTMuMTE3IDExLjEyMSA3MDAuNjc4IDE3LjYxODQgNzA2LjU0IDE3Ljg3MUM3MTIuOTU4IDE4LjE0NzYgNzE1LjExNyAxMS4xMjEgNzIxLjU0IDExLjEyMUM3MjcuOTY0IDExLjEyMSA3MzAuMTIzIDE4LjE0NzYgNzM2LjU0IDE3Ljg3MUM3NDIuNDAzIDE3LjYxODQgNzQ0LjA5NiAxMS4xNDc3IDc0OS45NjQgMTEuMTIxQzc1NS44ODUgMTEuMDk0MSA3NTcuNjc4IDE3LjYxODQgNzYzLjU0IDE3Ljg3MUM3NjkuOTU4IDE4LjE0NzYgNzcyLjExNyAxMS4xMjEgNzc4LjU0IDExLjEyMUM3ODQuOTY0IDExLjEyMSA3ODcuMTIzIDE4LjE0NzYgNzkzLjU0IDE3Ljg3MUM3OTkuNDAzIDE3LjYxODQgODA2Ljk2NCAxMS4xMjEgODA2Ljk2NCAxMS4xMjEiIHN0cm9rZT0iI0I1QjZCQyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="1675" y="173.69" width="760" height="26.31" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 24px;&quot;&gt;The Scrum Gap Iceberg&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontStyle=1;fontSize=24;fontFamily=Helvetica;" parent="1" vertex="1">
+                    <mxGeometry x="1696" y="-50" width="744" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" target="92" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1800" y="20" as="sourcePoint"/>
+                        <mxPoint x="1600" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1960" y="20"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="96" value="Individuals" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="95" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-143" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="99" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1760" y="80" as="sourcePoint"/>
+                        <mxPoint x="2020" y="155" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1920" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="100" value="Leadership" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="99" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-143" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;entryX=0.682;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;" parent="1" target="92" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2320" y="40" as="sourcePoint"/>
+                        <mxPoint x="2420" y="115.00000000000023" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2320" y="40"/>
+                            <mxPoint x="2200" y="40"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="Teams" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="101" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="65" y="-15" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="103" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;entryX=0.682;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2364" y="240" as="sourcePoint"/>
+                        <mxPoint x="2124" y="219.9490000000003" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2420" y="240"/>
+                            <mxPoint x="2224" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="104" value="Client Communication" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="103" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-72" y="-12" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="105" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;fontFamily=Helvetica;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1760" y="300" as="sourcePoint"/>
+                        <mxPoint x="1990" y="270" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1938" y="300"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="106" value="Management" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="105" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-121" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="109" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;entryX=0.682;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2347" y="339.9999999999998" as="sourcePoint"/>
+                        <mxPoint x="2107" y="319.9490000000003" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2327" y="340"/>
+                            <mxPoint x="2207" y="340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="110" value="Organization" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="109" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="11" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="111" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;fontFamily=Helvetica;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1772" y="409" as="sourcePoint"/>
+                        <mxPoint x="2002" y="379" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1950" y="409"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="112" value="Frameworks" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="111" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-121" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="113" value="" style="endArrow=oval;html=1;fontSize=24;fontColor=#000000;strokeColor=#000000;endFill=1;entryX=0.682;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2300" y="478" as="sourcePoint"/>
+                        <mxPoint x="2101" y="457.9490000000003" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2201" y="478"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="114" value="Culture" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;labelBorderColor=none;fontFamily=Helvetica;" parent="113" connectable="0" vertex="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="36" y="-13" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

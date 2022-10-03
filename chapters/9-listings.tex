@@ -1,0 +1,136 @@
+%----------------------------------------------------------------------------------------
+%	Debug options
+%----------------------------------------------------------------------------------------
+% chktex-file 2
+% chktex-file 8
+% chktex-file 11
+% chktex-file 13
+% chktex-file 18
+% chktex-file 36
+% chktex-file 39
+% chktex-file 44
+%----------------------------------------------------------------------------------------
+\chapter{Appendix}
+%----------------------------------------------------------------------------------------
+%	List of Acronyms
+%----------------------------------------------------------------------------------------
+\section{Acronyms}\label{sec:acronyms}
+% # 
+% # Usage:
+% # \ac{kürzel} = Erstes Mal Langform mit (Kürzel) dann nur noch Kürzel mit Link zum Acronym
+% # \acl{kürzel} = gibt nur die Langform der Abkürzung aus mit Link zum Akronym
+% # \acp{kürzel} || \aclp{kürzel} = Selbes wie oben nur mit Plural version
+% # 
+\input{./chapters/7-acronyms}
+
+%----------------------------------------------------------------------------------------
+%	List of Glossaries
+%----------------------------------------------------------------------------------------
+\newpage
+\printnoidxglossaries%
+
+%----------------------------------------------------------------------------------------
+%	List of Interviewees
+%----------------------------------------------------------------------------------------
+\newpage
+\section{List of Participants}\label{app:ListOfParticipants}
+
+\textbf{Normen Möller}\newline
+{Freelancer}\newline
+\icontext{Xing}{14}{\href{https://www.xing.com/profile/Normen_Moeller/cv}{Normen$\_$Moeller}}{black}
+
+\textbf{Sonja Zuckerstätter BA MSc}\newline
+{Content Managerin}\newline
+\textit{content garden technologies GmbH}\newline
+\icontext{Linkedin}{14}{\href{https://www.linkedin.com/in/sonja-zuckerstaetter}{sonja-zuckerstaetter}}{black}
+
+\textbf{Norman Günther}\newline
+{IT Project Manager | Agile Coach}\newline
+\textit{BZ.medien Digital}\newline
+\icontext{Xing}{14}{\href{https://www.xing.com/profile/Norman_Guenther4/cv}{Norman$\_$Guenther4}}{black}
+
+\textbf{Michael Spiller}\newline
+{Senior Agile Coach}\newline
+\textit{metafinanz Informationssysteme GmbH}\newline
+\icontext{Linkedin}{14}{\href{https://linkedin.com/in/michaelspiller}{michaelspiller}}{black}
+
+\textbf{Mario Hirschfeld}\newline
+{Agile Coach} \newline
+\textit{L.N. Schaffrath DigitalMedien GmbH}
+
+\textbf{Jean-Pierre Berchez}\newline
+{Gesellschafter} \newline
+\textit{HLSC GmbH}\newline
+\icontext{Linkedin}{14}{\href{https://www.linkedin.com/in/jpberchez/}{jpberchez}}{black}
+
+\newpage
+\section{Link to the spreadsheet used for analysis}\label{app:QRCode}
+To download the spreadsheet through your Browser, click this link right \textcolor{Violet}{\href{https://github.com/Inf166/mai-joel_maximilian-bachelor_thesis/raw/main/assets/data/data-formated-for-analysis.xlsx}{here}}.
+
+Alternatively, you can scan this QR Code with your phone camera:
+\begin{figure}[!ht]
+    \makebox[128pt]{\includegraphics[width=128pt]{./assets/images/qr-code-to-the-spreadsheet-github.png}}
+\end{figure}
+
+\section{How to cite this thesis}
+\subsection*{BibTex}
+\begin{lstlisting}[label={lst:HowToCite}]
+@MastersThesis{MaiGrotenKullack2023IttpoS,
+author           = {Mai, Joel Maximilian and Groten, Raphaela and Kullack, Sven},
+title            = {{Investigating} the theory-practice gap of {Scrum}},
+year             = {2023},
+month            = {02},
+type             = {Bachelor's Thesis},
+journal          = {Technische Hochschule Koeln},
+keywords         = {scrum, agile software development, framework, methodology, theory-practice gap}
+}
+\end{lstlisting}
+
+\begin{description}
+    \item[MLA] Mai, Joel Maximilian, et al. Investigating the Theory-Practice Gap of Scrum. 02 2023.
+    \item[APA] Mai, J. M., Groten, R., \& Kullack, S. (02 2023). Investigating the theory-practice gap of Scrum.
+    \item[AMA] Mai JM, Groten R, Kullack S. Investigating the Theory-Practice Gap of Scrum. 02 2023.
+    \item[IEEE] J. M. Mai, R. Groten, and S. Kullack, 'Investigating the theory-practice gap of Scrum', 02 2023.
+    \item[Harvard] Mai, J. M., Groten, R. and Kullack, S. (02 2023) Investigating the theory-practice gap of Scrum.
+    \item[Chicago] Mai, Joel Maximilian, Raphaela Groten, and Sven Kullack. 'Investigating the Theory-Practice Gap of Scrum', 02 2023.
+\end{description}
+%----------------------------------------------------------------------------------------
+%	List of References
+%----------------------------------------------------------------------------------------
+\bibliographystyle{apacite}
+\renewcommand{\refname}{List of References}
+\bibliography{bibliography/biblio.bib}
+
+%----------------------------------------------------------------------------------------
+%	List of Figures
+%----------------------------------------------------------------------------------------
+\newpage
+\listoffigures
+	
+%----------------------------------------------------------------------------------------
+%	List of Tables
+%----------------------------------------------------------------------------------------
+%\newpage
+%\addcontentsline{toc}{chapter}{List of Tables}
+%\listoftables
+
+%\newpage
+
+%----------------------------------------------------------------------------------------
+%	Questionnaire
+%----------------------------------------------------------------------------------------
+\input{./chapters/questionnaire/questions}
+
+%----------------------------------------------------------------------------------------
+%	Questionnaire Results
+%----------------------------------------------------------------------------------------
+\input{./chapters/questionnaire/results}
+
+
+\newpage
+\phantomsection%
+%----------------------------------------------------------------------------------------
+%	Affidavit
+%----------------------------------------------------------------------------------------
+\input{./chapters/99-affidavit}
+\newpage
