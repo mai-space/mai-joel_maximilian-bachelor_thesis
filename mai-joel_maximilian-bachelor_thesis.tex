@@ -121,9 +121,9 @@
 \usepackage{scrhack}
 % Link Highlighting
 % --------- Comment in if links should be highlighted -------------
-%\usepackage[breaklinks,hidelinks,colorlinks=true,linkcolor=black,citecolor=Violet]{hyperref}
+\usepackage[breaklinks,hidelinks,colorlinks=false,citecolor=Violet]{hyperref}
 % --------- Comment in if links should not be highlighted -------------
-\usepackage[breaklinks,colorlinks=false]{hyperref}
+%\usepackage[breaklinks,colorlinks=false]{hyperref}
 
 %rgb(49, 51, 62)
 %rgb(46, 204, 255)
@@ -141,11 +141,11 @@
 \usepackage[numberedbib,sectionbib,tocbib,bibnewpage]{apacite}
 % Package for dedicated Acronyms
 \usepackage[printonlyused]{acronym}
-%\renewcommand{\acsfont}[1]{{\color{Violet}\textnormal{#1}}}
-%\renewcommand{\acffont}[1]{{\color{Violet}\textnormal{#1}}}
+\renewcommand{\acsfont}[1]{{\color{Violet}\textnormal{#1}}}
+\renewcommand{\acffont}[1]{{\color{Violet}\textnormal{#1}}}
 % Package for dedicated Glossaries
 \usepackage[xindy,toc,numberedsection,section=section]{glossaries}
-%\renewcommand*{\glstextformat}[1]{\textcolor{Violet}{#1}}
+\renewcommand*{\glstextformat}[1]{\textcolor{Violet}{#1}}
 \makenoidxglossaries 
 
 \input{./chapters/8-glossaries}
