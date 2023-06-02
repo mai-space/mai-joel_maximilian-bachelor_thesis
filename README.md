@@ -22,9 +22,9 @@ With 35\% of the teams reporting having received some form of training, this imp
 
 ## Further information
 
-- [Download the paper](https://github.com/Inf166/mai-joel_maximilian-bachelor_thesis/raw/main/mai-joel_maximilian-bachelor_thesis.pdf)
-- [View the presentation](https://inf166.github.io/mai-joel_maximilian-bachelor_kolloquium/)
-- [See the data](https://github.com/Inf166/mai-joel_maximilian-bachelor_thesis/raw/main/assets/data/data-formated-for-analysis.xlsx)
+- [Download the paper](https://github.com/mai-space/mai-joel_maximilian-bachelor_thesis/raw/main/mai-joel_maximilian-bachelor_thesis.pdf)
+- [View the presentation](https://mai-space.github.io/mai-joel_maximilian-bachelor_kolloquium/)
+- [See the data](https://github.com/mai-space/mai-joel_maximilian-bachelor_thesis/raw/main/assets/data/data-formated-for-analysis.xlsx)
 
 ---
 
@@ -36,12 +36,12 @@ With 35\% of the teams reporting having received some form of training, this imp
     <th>Supervisor</th>
   </tr>  
   <tr>
-    <td style="padding: 0px 17px;"><img src="https://github.com/inf166.png?size=222" width="222px"></td>
+    <td style="padding: 0px 17px;"><img src="https://github.com/mai-space.png?size=222" width="222px"></td>
     <td><img src="https://www.th-koeln.de/pseimg/2c3d71bc559c97ef73f4dd712bd2221ca13b22a8.png" width="256px"></td>
     <td style="padding: 0px 17px;"><img src="https://github.com/Wugliwu.png?size=222" width="222px"></td>
   </tr>  
   <tr>
-    <td><a href="https://github.com/inf166">Joel Maximilian Mai</a></td>
+    <td><a href="https://github.com/mai-space">Joel Maximilian Mai</a></td>
     <td><a href="https://www.th-koeln.de/personen/raphaela.groten/">Prof. Dr. Raphaela Groten</a></td>
     <td><a href="https://www.th-koeln.de/personen/sven.kullack/">Sven Kullack</a></td>
   </tr>  
